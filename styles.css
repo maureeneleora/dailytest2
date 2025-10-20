@@ -1,13 +1,13 @@
-h1{
+.h1{
     font-style: bold;
     text-align: center;
     color: white;
 }
-p{
-    font-family:'Gill Sans',sans-serif;
+.p{
+    font-family:'Gill Sans', sans-serif;
     color: greenyellow;
     text-align: center;
 }
-body{
+.body{
     background-color: darkslateblue;
 }
